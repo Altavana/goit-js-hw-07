@@ -251,7 +251,8 @@ label {
 .inp-number {
   border: 1px solid #808080;
   border-radius: 8px;
-  padding: 8px 65px;
+  padding: 8px;
+  padding-left: 71px;
   width: 150px;
   height: 40px;
   margin: 0;
